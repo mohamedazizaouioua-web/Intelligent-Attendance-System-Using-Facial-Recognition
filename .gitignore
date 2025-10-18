@@ -1,0 +1,19 @@
+# Fichier pour ignorer les éléments non nécessaires sur GitHub
+
+# Environnement virtuel Python
+venv/
+
+# Fichiers de base de données générés
+societe.db
+face_database.pkl
+
+# Données personnelles (photos des employés)
+# On ignore tout ce qui se trouve dans le dossier 'database'
+database/*
+
+# Cache et fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Fichiers de configuration de l'éditeur (bonne pratique)
+.vscode/
