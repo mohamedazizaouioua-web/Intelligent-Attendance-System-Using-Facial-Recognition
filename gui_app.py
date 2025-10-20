@@ -1,4 +1,3 @@
-# gui_app.py (Version 4.7 - Correction de l'Erreur Silencieuse)
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
