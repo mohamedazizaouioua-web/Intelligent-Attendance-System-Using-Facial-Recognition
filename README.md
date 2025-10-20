@@ -88,7 +88,7 @@ python gui_app.py
 
 ### 3. Mettre à Jour la Base de Reconnaissance (Étape Cruciale)
 
--Après avoir ajouté ou supprimé des employés, cliquez sur le bouton **  METTRE À JOUR MAINTENANT **.
+-Après avoir ajouté ou supprimé des employés, cliquez sur le bouton **METTRE À JOUR MAINTENANT**.
 
 -Attendez le message de succès.
 
