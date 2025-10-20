@@ -1,6 +1,7 @@
 # 🎯 Système de Pointage Intelligent par Reconnaissance Faciale
 
-![Uploading Screenshot 2025-10-09 164345.jpg…]()
+![Screenshot 2025-10-09 164345](https://github.com/user-attachments/assets/b9faa06e-7ea0-45f9-8023-8c5e5dd6195d)
+
 
 Ce projet est une application de bureau complète et autonome pour la gestion des présences, utilisant la reconnaissance faciale en temps réel pour remplacer les systèmes de pointage traditionnels.
 
